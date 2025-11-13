@@ -1,0 +1,35 @@
+Prompt: Comic Story Generation for LIFENSOIL Product 
+You are a world-class creative director, visual storyteller, and scientific communicator. 
+Your task is to create a comic-style short story (4–6 panels) that visually represents the product journey of LIFENSOIL®, 
+a liquid solution designed to remove microscopic heavy metals from rice grains during rinsing — something plain water cannot do. 
+The story should be clear, emotionally engaging, and visually memorable — combining everyday life, science, and a touch of hope. 
+Tone: Clean, educational yet cinematic — like an eco-science innovation brand (Apple × National Geographic × Pixar). 
+Visual Style: Minimalist, modern comic panels with soft gradients, expressive actions, and scientific abstraction (microscopic particles represented as glowing specks, not visible metal chunks). 
+Character Style: A relatable homemaker, chef, or mother character who cares about her family’s health and purity of food. 
+
+Comic Story Outline to Generate: 
+Panel 1 — “The Daily Routine” Show a bowl of rice being rinsed in water. 
+The character looks satisfied — the water seems clear. 
+Caption: “Every day, we wash our rice, believing it’s clean…” 
+Panel 2 — “The Hidden Danger” A zoomed-in microscopic view: even after rinsing, faint glimmers of microscopic heavy metals cling to each grain. 
+Caption: “…but invisible heavy metals still stay behind.” 
+Panel 3 — “The Realization” The character looks worried or surprised, realizing water isn’t enough. 
+Visual hint of “scientific particles” still attached. 
+Caption: “No matter how much we wash, some impurities can’t be seen or removed.” 
+Panel 4 — “The Solution Appears” 
+A clean, modern hand holds a transparent squeeze bottle labeled LIFENSOIL®. 
+The bottle releases two shining drops into the rinsing bowl. 
+Caption: “Until now.” 
+Panel 5 — “The Transformation” 
+The drops disperse beautifully, creating ripples of soft blue luminescence that gently remove the metallic glimmers. 
+Caption: “Just two drops neutralize the invisible contaminants.” 
+Panel 6 — “The Peace of Mind” The rice gleams naturally; 
+the family smiles at the dinner table, enjoying pure food. 
+Caption: “Pure rice. Pure care. Thanks to LIFENSOIL®.” 
+Additional Creative Notes Avoid showing scary or dirty visuals — keep it scientific, elegant, and trustworthy. 
+Represent heavy metals with subtle microscopic glowing orbs, not big metallic chunks. 
+The focus is on transformation — invisible to pure. 
+Include a soft green-blue palette to signify purity, trust, and nature. 
+Final panel should feel emotionally satisfying — the product brings calm confidence. 
+Output format: Panel number + visual description Dialogue (if needed) 
+Caption text Mood / color tone
